@@ -1,6 +1,6 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-# Mi Card
+# mi_card
 
 ## Our Goal
 
@@ -13,7 +13,7 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 ## What you will learn
 
 * How to create Stateless Widgets
-* What is the difference between hot reload and hot refresh and running an app from cold
+* What is hot reload and hot refresh
 * How to use Containers to lay out your UI
 * How to use Columns and Rows to position your UI elements
 * How to add custom fonts
